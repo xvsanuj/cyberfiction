@@ -10,47 +10,47 @@ html,body{
 
 @font-face {
     font-family: gilroy;
-    src: url(./Gilroy-Thin.otf);
+    src: url(./font/Gilroy-Thin.otf);
     font-weight: 100;
 }
 @font-face {
     font-family: gilroy;
-    src: url(./Gilroy-UltraLight.otf);
+    src: url(./font/Gilroy-UltraLight.otf);
     font-weight: 200;
 }
 @font-face {
     font-family: gilroy;
-    src: url(./Gilroy-Light.otf);
+    src: url(./font/Gilroy-Light.otf);
     font-weight: 300;
 }
 @font-face {
     font-family: gilroy;
-    src: url(./Gilroy-Regular.otf);
+    src: url(./font/Gilroy-Regular.otf);
     font-weight: 400;
 }
 @font-face {
     font-family: gilroy;
-    src: url(./Gilroy-Medium.otf);
+    src: url(./font/Gilroy-Medium.otf);
     font-weight: 500;
 }
 @font-face {
     font-family: gilroy;
-    src: url(./Gilroy-SemiBold.otf);
+    src: url(./font/Gilroy-SemiBold.otf);
     font-weight: 600;
 }
 @font-face {
     font-family: gilroy;
-    src: url(./Gilroy-Bold.otf);
+    src: url(./font/Gilroy-Bold.otf);
     font-weight: 700;
 }
 @font-face {
     font-family: gilroy;
-    src: url(./Gilroy-ExtraBold.otf);
+    src: url(./font/Gilroy-ExtraBold.otf);
     font-weight: 800;
 }
 @font-face {
     font-family: gilroy;
-    src: url(./Gilroy-Black.otf);
+    src: url(./font/Gilroy-Black.otf);
     font-weight: 900;
 }
 
